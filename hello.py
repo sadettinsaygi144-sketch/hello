@@ -19,3 +19,4 @@ HTML ="""
   ul { list-style: none; padding: 0; }
   li { background: white; margin: 5px auto; width: 200px; padding: 8px; border-radius: 5px; }
 </style>
+</head>
